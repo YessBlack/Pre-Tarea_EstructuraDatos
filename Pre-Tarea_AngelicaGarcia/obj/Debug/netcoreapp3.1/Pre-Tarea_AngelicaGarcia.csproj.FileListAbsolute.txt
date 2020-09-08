@@ -1,0 +1,13 @@
+C:\Users\Angelica Garcia\source\repos\Pre-Tarea_AngelicaGarcia\Pre-Tarea_AngelicaGarcia\bin\Debug\netcoreapp3.1\Pre-Tarea_AngelicaGarcia.exe
+C:\Users\Angelica Garcia\source\repos\Pre-Tarea_AngelicaGarcia\Pre-Tarea_AngelicaGarcia\bin\Debug\netcoreapp3.1\Pre-Tarea_AngelicaGarcia.deps.json
+C:\Users\Angelica Garcia\source\repos\Pre-Tarea_AngelicaGarcia\Pre-Tarea_AngelicaGarcia\bin\Debug\netcoreapp3.1\Pre-Tarea_AngelicaGarcia.runtimeconfig.json
+C:\Users\Angelica Garcia\source\repos\Pre-Tarea_AngelicaGarcia\Pre-Tarea_AngelicaGarcia\bin\Debug\netcoreapp3.1\Pre-Tarea_AngelicaGarcia.runtimeconfig.dev.json
+C:\Users\Angelica Garcia\source\repos\Pre-Tarea_AngelicaGarcia\Pre-Tarea_AngelicaGarcia\bin\Debug\netcoreapp3.1\Pre-Tarea_AngelicaGarcia.dll
+C:\Users\Angelica Garcia\source\repos\Pre-Tarea_AngelicaGarcia\Pre-Tarea_AngelicaGarcia\bin\Debug\netcoreapp3.1\Pre-Tarea_AngelicaGarcia.pdb
+C:\Users\Angelica Garcia\source\repos\Pre-Tarea_AngelicaGarcia\Pre-Tarea_AngelicaGarcia\obj\Debug\netcoreapp3.1\Pre-Tarea_AngelicaGarcia.csprojAssemblyReference.cache
+C:\Users\Angelica Garcia\source\repos\Pre-Tarea_AngelicaGarcia\Pre-Tarea_AngelicaGarcia\obj\Debug\netcoreapp3.1\Pre-Tarea_AngelicaGarcia.AssemblyInfoInputs.cache
+C:\Users\Angelica Garcia\source\repos\Pre-Tarea_AngelicaGarcia\Pre-Tarea_AngelicaGarcia\obj\Debug\netcoreapp3.1\Pre-Tarea_AngelicaGarcia.AssemblyInfo.cs
+C:\Users\Angelica Garcia\source\repos\Pre-Tarea_AngelicaGarcia\Pre-Tarea_AngelicaGarcia\obj\Debug\netcoreapp3.1\Pre-Tarea_AngelicaGarcia.csproj.CoreCompileInputs.cache
+C:\Users\Angelica Garcia\source\repos\Pre-Tarea_AngelicaGarcia\Pre-Tarea_AngelicaGarcia\obj\Debug\netcoreapp3.1\Pre-Tarea_AngelicaGarcia.dll
+C:\Users\Angelica Garcia\source\repos\Pre-Tarea_AngelicaGarcia\Pre-Tarea_AngelicaGarcia\obj\Debug\netcoreapp3.1\Pre-Tarea_AngelicaGarcia.pdb
+C:\Users\Angelica Garcia\source\repos\Pre-Tarea_AngelicaGarcia\Pre-Tarea_AngelicaGarcia\obj\Debug\netcoreapp3.1\Pre-Tarea_AngelicaGarcia.genruntimeconfig.cache
